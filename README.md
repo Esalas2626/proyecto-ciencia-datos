@@ -76,5 +76,5 @@ jupyter notebook Proyecto_Final_Ciencia_Datos.ipynb
 ---
 
 ## 🔗 Entregables
-- 📓 https://colab.research.google.com/drive/1DntHeFoKgpIhWS_uDZy003tfL7ZlmlzM?usp=sharing(#) ← 
-- 🎥 [Video de Sustentación en YouTube](#) ← *Reemplazar con URL*
+- 📓 https://colab.research.google.com/drive/1DntHeFoKgpIhWS_uDZy003tfL7ZlmlzM?usp=sharing(#) 
+- 🎥 (#) 
