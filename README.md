@@ -2,7 +2,7 @@
 
 > **Asignatura:** Ciencia de Datos con Python  
 > **Tema:** Análisis y predicción de precios de productos — Books to Scrape  
-> **Integrantes:** [Nombre(s)]  
+> **Integrantes:** Esleider Salas, Omar Lacar, Keyber David, Maria Cabarcas  
 
 ---
 
@@ -76,5 +76,5 @@ jupyter notebook Proyecto_Final_Ciencia_Datos.ipynb
 ---
 
 ## 🔗 Entregables
-- 📓 [Notebook en Google Colab](#) ← *Reemplazar con URL pública*
+- 📓 https://colab.research.google.com/drive/1DntHeFoKgpIhWS_uDZy003tfL7ZlmlzM?usp=sharing(#) ← 
 - 🎥 [Video de Sustentación en YouTube](#) ← *Reemplazar con URL*
